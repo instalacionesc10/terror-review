@@ -4,6 +4,8 @@ Skill / comando para **Claude Code**: auditoría de código con triple lente —
 
 Genera un informe estructurado con hallazgos por severidad, puntuaciones por dimensión, top 5 de acciones prioritarias y patrones positivos del código.
 
+> 🎨 ¿Buscas lo mismo pero para UI/frontend? Mira [design-terror-review](https://github.com/instalacionesc10/design-terror-review) (Visual + Patrones React/Performance + Accesibilidad).
+
 ## Qué revisa
 
 | Lente | Cubre |
